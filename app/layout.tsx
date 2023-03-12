@@ -1,4 +1,5 @@
 import { metadata } from "./head";
+import Link from "next/link";
 
 export default function RootLayout({
   children,
@@ -8,7 +9,9 @@ export default function RootLayout({
   const header = (
     <header>
       <div>
-        <h1>{metadata.title}</h1>
+        <Link href="/">
+          <h1>{metadata.title}</h1>
+        </Link>
         <p>Welcome to my tech blog 💻</p>
       </div>
     </header>
