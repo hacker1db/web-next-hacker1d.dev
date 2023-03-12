@@ -1,4 +1,4 @@
-export interface PostMetadata {
+export interface PostMetadataModel {
   title: string;
   date: string;
   subtitle: string;
