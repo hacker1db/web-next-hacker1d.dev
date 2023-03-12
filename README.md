@@ -42,7 +42,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ### TODO:
 
 - smegrep
+  - [Sample CI configurations | Semgrep](https://semgrep.dev/docs/semgrep-ci/sample-ci-configs/)
 - sonarcloud
+  - [GitHub Actions | SonarCloud Docs](https://docs.sonarcloud.io/advanced-setup/ci-based-analysis/github-actions-for-sonarcloud/)
 - infra code
 - [docker container](https://github.com/vercel/next.js/tree/canary/examples/with-docker)
   - add trivy scanning
