@@ -1,5 +1,5 @@
 ---
-Title: "Containers from a DevSecOps Engineers perspective"
+title: "Containers from a DevSecOps Engineers perspective"
 subtitle: "What Software engineers should know about building docker files"
 date: 2023-01-08
 draft: false
@@ -12,8 +12,6 @@ Tags:
   - DevSecOps
   - Docker
 ---
-
-# {{< param subtitle >}}
 
 > So sounds like you want a shortcut answer, we do not have any of those in stock.
 

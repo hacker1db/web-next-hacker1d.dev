@@ -12,8 +12,6 @@ tags:
   - DevOps
 ---
 
-# {{< param subtitle >}}
-
 ## **DevOps Manifesto**
 
 DevOps is the union of people, process, and products to enable continuous delivery of value to our end users.
