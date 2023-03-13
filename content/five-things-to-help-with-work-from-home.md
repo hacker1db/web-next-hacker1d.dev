@@ -10,8 +10,4 @@ tags:
   - Work from home
 ---
 
-# {{< param subtitle >}}
-
-1. Treat Every Day as if you are going into the office
-
-2.
+# Remote Work is awesome!
