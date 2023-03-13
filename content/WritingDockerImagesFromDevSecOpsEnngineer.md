@@ -156,4 +156,4 @@ Thank you for sticking to the end, I know that I did not give any just do this a
 
 I now have a [news letter](https://newsletter.hacker1db.dev/), if you want to get some insider content.
 
-{{< youtube wHHc9Ygvp5s >}}
+[![Video going over the blog post](https://img.youtube.com/vi/wHHc9Ygvp5s/hqdefault.jpg)](https://youtu.be/wHHc9Ygvp5s)
