@@ -15,8 +15,8 @@ export default function RootLayout({
           src="/logo.png"
           width={40}
           height={40}
-          className="mx-auto py-0"
-        ></Image>
+          alt="logo for hacker1db"
+          className="mx-auto py-0"></Image>
         <Link href="/">
           <h1 className="text-3xl text-white font-bold">{metadata.title}</h1>
         </Link>
